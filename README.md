@@ -9,6 +9,8 @@ pip3 install -r requirements.txt
 2 fill the config file for the tool you want to use ( mainly named config.json ) 
 3 start the tool ( mainly named main.py ) 
 
+### type exemple
+All type of exemple to do all type of things
 
 ### token generator : 
 Generate token for you tweeter account from you app consumer key / secret
