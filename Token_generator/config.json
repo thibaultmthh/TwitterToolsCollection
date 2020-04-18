@@ -1,0 +1,7 @@
+{
+  "consumer_key": "",
+  "consumer_secret": "",
+  "host": "127.0.0.1",
+  "port": "5000",
+  "path_callback":"callback"
+}
