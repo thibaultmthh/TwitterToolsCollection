@@ -17,13 +17,6 @@ auth.set_access_token(access_token, access_token_secret)
 # Creation of the actual interface, using authentication
 api = tweepy.API(auth)
 
-# Creates the user object. The me() method returns the user whose authentication keys were used.
-user = api.me()
-
-print('Name: ' + user.name)
-print('Location: ' + user.location)
-print('Friends: ' + str(user.friends_count))
-
 # Sample method, used to update a status
 # api.update_status('Hello Form RBI Lab!')
 
