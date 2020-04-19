@@ -9,6 +9,10 @@ pip3 install -r requirements.txt
 2 fill the config file for the tool you want to use ( mainly named config.json ) 
 3 start the tool ( mainly named main.py ) 
 
+
+### Random exemples
+A collection of exemple to do all type of things
+
 ### type exemple
 All type of exemple to do all type of things
 
@@ -17,4 +21,5 @@ Generate token for you tweeter account from you app consumer key / secret
 
 ### tweet remover 
 Remove tweet from you twitter account 
+
 
