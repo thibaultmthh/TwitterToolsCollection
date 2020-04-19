@@ -19,4 +19,6 @@ Generate token for you tweeter account from you app consumer key / secret
 ### tweet remover 
 Remove tweet from you twitter account 
 
+### tweet from file
+A bot that tweet from a list of tweets in a txt file until the bot have tweet eveythings
 
