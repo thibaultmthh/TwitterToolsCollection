@@ -13,9 +13,6 @@ pip3 install -r requirements.txt
 ### Random exemples
 A collection of exemple to do all type of things
 
-### type exemple
-All type of exemple to do all type of things
-
 ### token generator : 
 Generate token for you tweeter account from you app consumer key / secret
 
