@@ -31,18 +31,23 @@ def connexion(tokens):
 def load_config():
     data = {"consumer_key": "", "consumer_secret":"", "access_token":"","access_token_secret":"", "time_between_tweets_sec": 60*60*12}
     try:
-        with open("config.json", "r") as f:
-            data = json.load(f)
-            return data
+        open("config.json", "r")
+        print("config file created")
+
     except:
+        print("config file created")
         with open("config.json", "w") as f:
             json.dump(data, f)
             return data
 
+    with open("config.json", "r") as f:
+        data = json.load(f)
+        return data
+
 config = load_config()
 auth, api =connexion(config)
 
-
+config
 for tweet in liste_tweet:
     if not tweet in liste_tweet_done:
         api.update_status(tweet)

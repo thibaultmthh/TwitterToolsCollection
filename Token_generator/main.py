@@ -8,13 +8,18 @@ data = {"request_token": "", "token": "", "api": ""}
 def load_config():
     data = {"consumer_key": "", "consumer_secret":"", "host":"127.0.0.1","port":"5000", "path_callback":"callback"}
     try:
-        with open("config.json", "r") as f:
-            data = json.load(f)
-            return data
+        open("config.json", "r")
+        print("config file created")
+
     except:
+        print("config file created")
         with open("config.json", "w") as f:
             json.dump(data, f)
             return data
+
+    with open("config.json", "r") as f:
+        data = json.load(f)
+        return data
 
 config = load_config()
 consumer_key = config["consumer_key"]

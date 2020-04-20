@@ -19,13 +19,18 @@ def connexion(tokens):
 def load_config():
     data = {"consumer_key": "", "consumer_secret":"", "access_token":"","access_token_secret":""}
     try:
-        with open("config.json", "r") as f:
-            data = json.load(f)
-            return data
+        open("config.json", "r")
+        print("config file created")
+
     except:
+        print("config file created")
         with open("config.json", "w") as f:
             json.dump(data, f)
             return data
+
+    with open("config.json", "r") as f:
+        data = json.load(f)
+        return data
 
 
 
