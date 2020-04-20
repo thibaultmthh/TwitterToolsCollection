@@ -1,0 +1,591 @@
+{
+  "created_at": "Wed Feb 26 11:24:43 +0000 2020",
+  "id": 1232627547734773763,
+  "id_str": "1232627547734773763",
+  "text": "📹 « Bien sûr qu'il faut accorder l'asile en France à #AsiaBibi, comme à #JulianAssange. Ils correspondent de toute… https://t.co/pI2zRSO6lp",
+  "truncated": True,
+  "entities": {
+    "hashtags": [{
+      "text": "AsiaBibi",
+      "indices": [53, 62]
+    }, {
+      "text": "JulianAssange",
+      "indices": [72, 86]
+    }],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [{
+      "url": "https://t.co/pI2zRSO6lp",
+      "expanded_url": "https://twitter.com/i/web/status/1232627547734773763",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [116, 139]
+    }]
+  },
+  "source": "<a href="
+  https: //studio.twitter.com" rel="nofollow">Twitter Media Studio</a>",
+    "in_reply_to_status_id": None,
+  "in_reply_to_status_id_str": None,
+  "in_reply_to_user_id": None,
+  "in_reply_to_user_id_str": None,
+  "in_reply_to_screen_name": None,
+  "user": {
+    "id": 217749896,
+    "id_str": "217749896",
+    "name": "Marine Le Pen",
+    "screen_name": "MLP_officiel",
+    "location": "France",
+    "description": "Présidente du @RNational_off | Député",
+    "url": "https://t.co/NeRmPQK8NY",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/NeRmPQK8NY",
+          "expanded_url": "https://www.rassemblementnational.fr",
+          "display_url": "rassemblementnational.fr",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": False,
+    "followers_count": 2354771,
+    "friends_count": 3759,
+    "listed_count": 5329,
+    "created_at": "Sat Nov 20 12:23:03 +0000 2010",
+    "favourites_count": 756,
+    "utc_offset": None,
+    "time_zone": None,
+    "geo_enabled": True,
+    "verified": True,
+    "statuses_count": 20506,
+    "lang": None,
+    "contributors_enabled": False,
+    "is_translator": False,
+    "is_translation_enabled": False,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": False,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1186216012586389504/VQQBnTI-_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186216012586389504/VQQBnTI-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/217749896/1568734789",
+    "profile_link_color": "0E1C46",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "A8C7F7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": False,
+    "has_extended_profile": False,
+    "default_profile": False,
+    "default_profile_image": False,
+    "following": False,
+    "follow_request_sent": False,
+    "notifications": False,
+    "translator_type": "none"
+  },
+  "geo": None,
+  "coordinates": None,
+  "place": None,
+  "contributors": None,
+  "is_quote_status": False,
+  "retweet_count": 186,
+  "favorite_count": 403,
+  "favorited": False,
+  "retweeted": False,
+  "possibly_sensitive": False,
+  "lang": "fr"
+}, created_at = datetime.datetime(2020, 2, 26, 11, 24, 43), id = 1232627547734773763, id_str = "1232627547734773763", text = "📹 « Bien sûr qu"
+il faut accorder l "asile en France à #AsiaBibi, comme à #JulianAssange. Ils correspondent de toute… https://t.co/pI2zRSO6lp", truncated = True, entities = {
+    "hashtags": [{
+      "text": "AsiaBibi",
+      "indices": [53, 62]
+    }, {
+      "text": "JulianAssange",
+      "indices": [72, 86]
+    }],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [{
+      "url": "https://t.co/pI2zRSO6lp",
+      "expanded_url": "https://twitter.com/i/web/status/1232627547734773763",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [116, 139]
+    }]
+  }, source = "Twitter Media Studio", source_url = "https://studio.twitter.com", in_reply_to_status_id = None, in_reply_to_status_id_str = None, in_reply_to_user_id = None, in_reply_to_user_id_str = None, in_reply_to_screen_name = None, author = User(_api = < tweepy.api.API object at 0x7f3bc8ec4518 > , _json = {
+    "id": 217749896,
+    "id_str": "217749896",
+    "name": "Marine Le Pen",
+    "screen_name": "MLP_officiel",
+    "location": "France",
+    "description": "Présidente du @RNational_off | Député",
+    "url": "https://t.co/NeRmPQK8NY",
+    "entities": {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/NeRmPQK8NY",
+          "expanded_url": "https://www.rassemblementnational.fr",
+          "display_url": "rassemblementnational.fr",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": False,
+    "followers_count": 2354771,
+    "friends_count": 3759,
+    "listed_count": 5329,
+    "created_at": "Sat Nov 20 12:23:03 +0000 2010",
+    "favourites_count": 756,
+    "utc_offset": None,
+    "time_zone": None,
+    "geo_enabled": True,
+    "verified": True,
+    "statuses_count": 20506,
+    "lang": None,
+    "contributors_enabled": False,
+    "is_translator": False,
+    "is_translation_enabled": False,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": False,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1186216012586389504/VQQBnTI-_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186216012586389504/VQQBnTI-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/217749896/1568734789",
+    "profile_link_color": "0E1C46",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "A8C7F7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": False,
+    "has_extended_profile": False,
+    "default_profile": False,
+    "default_profile_image": False,
+    "following": False,
+    "follow_request_sent": False,
+    "notifications": False,
+    "translator_type": "none"
+  }, id = 217749896, id_str = "217749896", name = "Marine Le Pen", screen_name = "MLP_officiel", location = "France", description = "Présidente du @RNational_off | Député", url = "https://t.co/NeRmPQK8NY", entities = {
+    "url": {
+      "urls": [{
+        "url": "https://t.co/NeRmPQK8NY",
+        "expanded_url": "https://www.rassemblementnational.fr",
+        "display_url": "rassemblementnational.fr",
+        "indices": [0, 23]
+      }]
+    },
+    "description": {
+      "urls": []
+    }
+  }, protected = False, followers_count = 2354771, friends_count = 3759, listed_count = 5329, created_at = datetime.datetime(2010, 11, 20, 12, 23, 3), favourites_count = 756, utc_offset = None, time_zone = None, geo_enabled = True, verified = True, statuses_count = 20506, lang = None, contributors_enabled = False, is_translator = False, is_translation_enabled = False, profile_background_color = "FFFFFF", profile_background_image_url = "http://abs.twimg.com/images/themes/theme15/bg.png", profile_background_image_url_https = "https://abs.twimg.com/images/themes/theme15/bg.png", profile_background_tile = False, profile_image_url = "http://pbs.twimg.com/profile_images/1186216012586389504/VQQBnTI-_normal.jpg", profile_image_url_https = "https://pbs.twimg.com/profile_images/1186216012586389504/VQQBnTI-_normal.jpg", profile_banner_url = "https://pbs.twimg.com/profile_banners/217749896/1568734789", profile_link_color = "0E1C46", profile_sidebar_border_color = "FFFFFF", profile_sidebar_fill_color = "A8C7F7", profile_text_color = "333333", profile_use_background_image = False, has_extended_profile = False, default_profile = False, default_profile_image = False, following = False, follow_request_sent = False, notifications = False, translator_type = "none"), user = User(_api = < tweepy.api.API object at 0x7f3bc8ec4518 > , _json = {
+      "id": 217749896,
+      "id_str": "217749896",
+      "name": "Marine Le Pen",
+      "screen_name": "MLP_officiel",
+      "location": "France",
+      "description": "Présidente du @RNational_off | Député",
+      "url": "https://t.co/NeRmPQK8NY",
+      "entities": {
+        "url": {
+          "urls": [{
+            "url": "https://t.co/NeRmPQK8NY",
+            "expanded_url": "https://www.rassemblementnational.fr",
+            "display_url": "rassemblementnational.fr",
+            "indices": [0, 23]
+          }]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": False,
+      "followers_count": 2354771,
+      "friends_count": 3759,
+      "listed_count": 5329,
+      "created_at": "Sat Nov 20 12:23:03 +0000 2010",
+      "favourites_count": 756,
+      "utc_offset": None,
+      "time_zone": None,
+      "geo_enabled": True,
+      "verified": True,
+      "statuses_count": 20506,
+      "lang": None,
+      "contributors_enabled": False,
+      "is_translator": False,
+      "is_translation_enabled": False,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": False,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1186216012586389504/VQQBnTI-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186216012586389504/VQQBnTI-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/217749896/1568734789",
+      "profile_link_color": "0E1C46",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "A8C7F7",
+      "profile_text_color": "333333",
+      "profile_use_background_image": False,
+      "has_extended_profile": False,
+      "default_profile": False,
+      "default_profile_image": False,
+      "following": False,
+      "follow_request_sent": False,
+      "notifications": False,
+      "translator_type": "none"
+    }, id = 217749896, id_str = "217749896", name = "Marine Le Pen", screen_name = "MLP_officiel", location = "France", description = "Présidente du @RNational_off | Député", url = "https://t.co/NeRmPQK8NY", entities = {
+      "url": {
+        "urls": [{
+          "url": "https://t.co/NeRmPQK8NY",
+          "expanded_url": "https://www.rassemblementnational.fr",
+          "display_url": "rassemblementnational.fr",
+          "indices": [0, 23]
+        }]
+      },
+      "description": {
+        "urls": []
+      }
+    }
+
+
+
+
+
+
+
+
+
+
+#Avec photo
+
+
+
+
+
+
+
+
+
+
+
+{
+      "created_at": "Mon Mar 23 14:15:00 +0000 2020",
+      "id": 1242092486065033216,
+      "id_str": "1242092486065033216",
+      "text": "Test (klavyé) https://t.co/TUBCkheNlb",
+      "truncated": False,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [{
+          "id": 1242092450459652096,
+          "id_str": "1242092450459652096",
+          "indices": [14, 37],
+          "media_url": "http://pbs.twimg.com/media/ETzMgLfXkAAkb2M.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETzMgLfXkAAkb2M.jpg",
+          "url": "https://t.co/TUBCkheNlb",
+          "display_url": "pic.twitter.com/TUBCkheNlb",
+          "expanded_url": "https://twitter.com/Thibault_mthh/status/1242092486065033216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }]
+      },
+      "extended_entities": {
+        "media": [{
+          "id": 1242092450459652096,
+          "id_str": "1242092450459652096",
+          "indices": [14, 37],
+          "media_url": "http://pbs.twimg.com/media/ETzMgLfXkAAkb2M.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/ETzMgLfXkAAkb2M.jpg",
+          "url": "https://t.co/TUBCkheNlb",
+          "display_url": "pic.twitter.com/TUBCkheNlb",
+          "expanded_url": "https://twitter.com/Thibault_mthh/status/1242092486065033216/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }]
+      },
+      "source": "<a href="http://itunes.apple.com/us/app/twitter/id409789998?mt=12" rel="nofollow">Twitter for Mac</a>",
+      "in_reply_to_status_id": None,
+      "in_reply_to_status_id_str": None,
+      "in_reply_to_user_id": None,
+      "in_reply_to_user_id_str": None,
+      "in_reply_to_screen_name": None,
+      "user": {
+        "id": 809034664090464256,
+        "id_str": "809034664090464256",
+        "name": "Thibault",
+        "screen_name": "Thibault_mthh",
+        "location": "",
+        "description": "ici c’est papa riz",
+        "url": None,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": False,
+        "followers_count": 22,
+        "friends_count": 116,
+        "listed_count": 0,
+        "created_at": "Wed Dec 14 13:57:49 +0000 2016",
+        "favourites_count": 481,
+        "utc_offset": None,
+        "time_zone": None,
+        "geo_enabled": False,
+        "verified": False,
+        "statuses_count": 27,
+        "lang": None,
+        "contributors_enabled": False,
+        "is_translator": False,
+        "is_translation_enabled": False,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": None,
+        "profile_background_image_url_https": None,
+        "profile_background_tile": False,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1239293495384440833/GCcYYBSd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239293495384440833/GCcYYBSd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/809034664090464256/1582014464",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": True,
+        "has_extended_profile": True,
+        "default_profile": True,
+        "default_profile_image": False,
+        "following": False,
+        "follow_request_sent": False,
+        "notifications": False,
+        "translator_type": "none"
+      },
+      "geo": None,
+      "coordinates": None,
+      "place": None,
+      "contributors": None,
+      "is_quote_status": False,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": False,
+      "retweeted": False,
+      "possibly_sensitive": True,
+      "lang": "ht"
+    }, created_at = datetime.datetime(2020, 3, 23, 14, 15), id = 1242092486065033216, id_str = "1242092486065033216", text = "Test (klavyé) https://t.co/TUBCkheNlb", truncated = False, entities = {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [{
+        "id": 1242092450459652096,
+        "id_str": "1242092450459652096",
+        "indices": [14, 37],
+        "media_url": "http://pbs.twimg.com/media/ETzMgLfXkAAkb2M.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ETzMgLfXkAAkb2M.jpg",
+        "url": "https://t.co/TUBCkheNlb",
+        "display_url": "pic.twitter.com/TUBCkheNlb",
+        "expanded_url": "https://twitter.com/Thibault_mthh/status/1242092486065033216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }]
+    }, extended_entities = {
+      "media": [{
+        "id": 1242092450459652096,
+        "id_str": "1242092450459652096",
+        "indices": [14, 37],
+        "media_url": "http://pbs.twimg.com/media/ETzMgLfXkAAkb2M.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/ETzMgLfXkAAkb2M.jpg",
+        "url": "https://t.co/TUBCkheNlb",
+        "display_url": "pic.twitter.com/TUBCkheNlb",
+        "expanded_url": "https://twitter.com/Thibault_mthh/status/1242092486065033216/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }]
+    }, source = "Twitter for Mac", source_url = "http://itunes.apple.com/us/app/twitter/id409789998?mt=12", in_reply_to_status_id = None, in_reply_to_status_id_str = None, in_reply_to_user_id = None, in_reply_to_user_id_str = None, in_reply_to_screen_name = None, author = User(_api = < tweepy.api.API object at 0x10b6ec250 > , _json = {
+      "id": 809034664090464256,
+      "id_str": "809034664090464256",
+      "name": "Thibault",
+      "screen_name": "Thibault_mthh",
+      "location": "",
+      "description": "ici c’est papa riz",
+      "url": None,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": False,
+      "followers_count": 22,
+      "friends_count": 116,
+      "listed_count": 0,
+      "created_at": "Wed Dec 14 13:57:49 +0000 2016",
+      "favourites_count": 481,
+      "utc_offset": None,
+      "time_zone": None,
+      "geo_enabled": False,
+      "verified": False,
+      "statuses_count": 27,
+      "lang": None,
+      "contributors_enabled": False,
+      "is_translator": False,
+      "is_translation_enabled": False,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": None,
+      "profile_background_image_url_https": None,
+      "profile_background_tile": False,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1239293495384440833/GCcYYBSd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239293495384440833/GCcYYBSd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/809034664090464256/1582014464",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": True,
+      "has_extended_profile": True,
+      "default_profile": True,
+      "default_profile_image": False,
+      "following": False,
+      "follow_request_sent": False,
+      "notifications": False,
+      "translator_type": "none"
+    }, id = 809034664090464256, id_str = "809034664090464256", name = "Thibault", screen_name = "Thibault_mthh", location = "", description = "ici c’est papa riz", url = None, entities = {
+      "description": {
+        "urls": []
+      }
+    }, protected = False, followers_count = 22, friends_count = 116, listed_count = 0, created_at = datetime.datetime(2016, 12, 14, 13, 57, 49), favourites_count = 481, utc_offset = None, time_zone = None, geo_enabled = False, verified = False, statuses_count = 27, lang = None, contributors_enabled = False, is_translator = False, is_translation_enabled = False, profile_background_color = "F5F8FA", profile_background_image_url = None, profile_background_image_url_https = None, profile_background_tile = False, profile_image_url = "http://pbs.twimg.com/profile_images/1239293495384440833/GCcYYBSd_normal.jpg", profile_image_url_https = "https://pbs.twimg.com/profile_images/1239293495384440833/GCcYYBSd_normal.jpg", profile_banner_url = "https://pbs.twimg.com/profile_banners/809034664090464256/1582014464", profile_link_color = "1DA1F2", profile_sidebar_border_color = "C0DEED", profile_sidebar_fill_color = "DDEEF6", profile_text_color = "333333", profile_use_background_image = True, has_extended_profile = True, default_profile = True, default_profile_image = False, following = False, follow_request_sent = False, notifications = False, translator_type = "none"), user = User(_api = < tweepy.api.API object at 0x10b6ec250 > , _json = {
+      "id": 809034664090464256,
+      "id_str": "809034664090464256",
+      "name": "Thibault",
+      "screen_name": "Thibault_mthh",
+      "location": "",
+      "description": "ici c’est papa riz",
+      "url": None,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": False,
+      "followers_count": 22,
+      "friends_count": 116,
+      "listed_count": 0,
+      "created_at": "Wed Dec 14 13:57:49 +0000 2016",
+      "favourites_count": 481,
+      "utc_offset": None,
+      "time_zone": None,
+      "geo_enabled": False,
+      "verified": False,
+      "statuses_count": 27,
+      "lang": None,
+      "contributors_enabled": False,
+      "is_translator": False,
+      "is_translation_enabled": False,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": None,
+      "profile_background_image_url_https": None,
+      "profile_background_tile": False,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1239293495384440833/GCcYYBSd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1239293495384440833/GCcYYBSd_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/809034664090464256/1582014464",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": True,
+      "has_extended_profile": True,
+      "default_profile": True,
+      "default_profile_image": False,
+      "following": False,
+      "follow_request_sent": False,
+      "notifications": False,
+      "translator_type": "none"
+    }, id = 809034664090464256, id_str = "809034664090464256", name = "Thibault", screen_name = "Thibault_mthh", location = "", description = "ici c’est papa riz", url = None, entities = {
+      "description": {
+        "urls": []
+      }
+    }

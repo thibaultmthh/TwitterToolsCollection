@@ -1,0 +1,21 @@
+{
+  "id": "7bc0da87641dd821",
+  "url": "https://api.twitter.com/1.1/geo/id/7bc0da87641dd821.json",
+  "place_type": "city",
+  "name": "Hull",
+  "full_name": "Hull, England",
+  "country_code": "GB",
+  "country": "United Kingdom",
+  "bounding_box": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [-0.422572, 53.719616],
+        [-0.422572, 53.812018],
+        [-0.245313, 53.812018],
+        [-0.245313, 53.719616]
+      ]
+    ]
+  },
+  "attributes": {}
+}

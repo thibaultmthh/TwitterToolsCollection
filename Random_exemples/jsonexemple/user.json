@@ -1,0 +1,175 @@
+User(_api = < tweepy.api.API object at 0x7f21f863d4a8 > , _json = {
+  "id": 217749896,
+  "id_str": "217749896",
+  "name": "Marine Le Pen",
+  "screen_name": "MLP_officiel",
+  "location": "France",
+  "profile_location": "None",
+  "description": "Présidente du @RNational_off | Député",
+  "url": "https://t.co/NeRmPQK8NY",
+  "entities": {
+    "url": {
+      "urls": [{
+        "url": "https://t.co/NeRmPQK8NY",
+        "expanded_url": "https://www.rassemblementnational.fr",
+        "display_url": "rassemblementnational.fr",
+        "indices": [0, 23]
+      }]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": "False",
+  "followers_count": 2354765,
+  "friends_count": 3759,
+  "listed_count": 5329,
+  "created_at": "Sat Nov 20 12:23:03 +0000 2010",
+  "favourites_count": 756,
+  "utc_offset": "None",
+  "time_zone": "None",
+  "geo_enabled": "True",
+  "verified": "True",
+  "statuses_count": 20506,
+  "lang": "None",
+  "status": {
+    "created_at": "Sat Feb 29 14:32:55 +0000 2020",
+    "id": 1233762072959311872,
+    "id_str": "1233762072959311872",
+    "text": "💬 Je suis aujourd’hui sur ces terres du #PasDeCalais auxquelles je tiens tant, pour soutenir @BrunoClavet, notre tê… https://t.co/hzLmmdwv1r",
+    "truncated": "True",
+    "entities": {
+      "hashtags": [{
+        "text": "PasDeCalais",
+        "indices": [40, 52]
+      }],
+      "symbols": [],
+      "user_mentions": [{
+        "screen_name": "BrunoClavet",
+        "name": "Bruno Clavet",
+        "id": 1089589855875727360,
+        "id_str": "1089589855875727360",
+        "indices": [93, 105]
+      }],
+      "urls": [{
+        "url": "https://t.co/hzLmmdwv1r",
+        "expanded_url": "https://twitter.com/i/web/status/1233762072959311872",
+        "display_url": "twitter.com/i/web/status/1…",
+        "indices": [117, 140]
+      }]
+    },
+    "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+    "in_reply_to_status_id": "None",
+    "in_reply_to_status_id_str": "None",
+    "in_reply_to_user_id": "None",
+    "in_reply_to_user_id_str": "None",
+    "in_reply_to_screen_name": "None",
+    "geo": "None",
+    "coordinates": "None",
+    "place": "None",
+    "contributors": "None",
+    "is_quote_status": "False",
+    "retweet_count": 48,
+    "favorite_count": 141,
+    "favorited": "False",
+    "retweeted": "False",
+    "possibly_sensitive": "False",
+    "lang": "fr"
+  },
+  "contributors_enabled": "False",
+  "is_translator": "False",
+  "is_translation_enabled": "False",
+  "profile_background_color": "FFFFFF",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+  "profile_background_tile": "False",
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1186216012586389504/VQQBnTI-_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186216012586389504/VQQBnTI-_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/217749896/1568734789",
+  "profile_link_color": "0E1C46",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "A8C7F7",
+  "profile_text_color": "333333",
+  "profile_use_background_image": "False",
+  "has_extended_profile": "False",
+  "default_profile": "False",
+  "default_profile_image": "False",
+  "following": "False",
+  "follow_request_sent": "False",
+  "notifications": "False",
+  "translator_type": "None"
+}, id = 217749896, id_str = "217749896", name = "Marine Le Pen", screen_name = "MLP_officiel", location = "France", profile_location = "None", description = "Présidente du @RNational_off | Député", url = "https://t.co/NeRmPQK8NY", entities = {
+  "url": {
+    "urls": [{
+      "url": "https://t.co/NeRmPQK8NY",
+      "expanded_url": "https://www.rassemblementnational.fr",
+      "display_url": "rassemblementnational.fr",
+      "indices": [0, 23]
+    }]
+  },
+  "description": {
+    "urls": []
+  }
+}, protected = "False", followers_count = 2354765, friends_count = 3759, listed_count = 5329, created_at = datetime.datetime(2010, 11, 20, 12, 23, 3), favourites_count = 756, utc_offset = "None", time_zone = "None", geo_enabled = "True", verified = "True", statuses_count = 20506, lang = "None", status = Status(_api = < tweepy.api.API object at 0x7f21f863d4a8 > , _json = {
+  "created_at": "Sat Feb 29 14:32:55 +0000 2020",
+  "id": 1233762072959311872,
+  "id_str": "1233762072959311872",
+  "text": "💬 Je suis aujourd’hui sur ces terres du #PasDeCalais auxquelles je tiens tant, pour soutenir @BrunoClavet, notre tê… https://t.co/hzLmmdwv1r",
+  "truncated": "True",
+  "entities": {
+    "hashtags": [{
+      "text": "PasDeCalais",
+      "indices": [40, 52]
+    }],
+    "symbols": [],
+    "user_mentions": [{
+      "screen_name": "BrunoClavet",
+      "name": "Bruno Clavet",
+      "id": 1089589855875727360,
+      "id_str": "1089589855875727360",
+      "indices": [93, 105]
+    }],
+    "urls": [{
+      "url": "https://t.co/hzLmmdwv1r",
+      "expanded_url": "https://twitter.com/i/web/status/1233762072959311872",
+      "display_url": "twitter.com/i/web/status/1…",
+      "indices": [117, 140]
+    }]
+  },
+  "source": "<a href='http://twitter.com/download/iphone' rel='nofollow'>Twitter for iPhone</a>",
+  "in_reply_to_status_id": "None",
+  "in_reply_to_status_id_str": "None",
+  "in_reply_to_user_id": "None",
+  "in_reply_to_user_id_str": "None",
+  "in_reply_to_screen_name": "None",
+  "geo": "None",
+  "coordinates": "None",
+  "place": "None",
+  "contributors": "None",
+  "is_quote_status": "False",
+  "retweet_count": 48,
+  "favorite_count": 141,
+  "favorited": "False",
+  "retweeted": "False",
+  "possibly_sensitive": "False",
+  "lang": "fr"
+}, created_at = datetime.datetime(2020, 2, 29, 14, 32, 55), id = 1233762072959311872, id_str = "1233762072959311872", text = "💬 Je suis aujourd’hui sur ces terres du #PasDeCalais auxquelles je tiens tant, pour soutenir @BrunoClavet, notre tê… https://t.co/hzLmmdwv1r", truncated = "True", entities = {
+  "hashtags": [{
+    "text": "PasDeCalais",
+    "indices": [40, 52]
+  }],
+  "symbols": [],
+  "user_mentions": [{
+    "screen_name": "BrunoClavet",
+    "name": "Bruno Clavet",
+    "id": 1089589855875727360,
+    "id_str": "1089589855875727360",
+    "indices": [93, 105]
+  }],
+  "urls": [{
+    "url": "https://t.co/hzLmmdwv1r",
+    "expanded_url": "https://twitter.com/i/web/status/1233762072959311872",
+    "display_url": "twitter.com/i/web/status/1…",
+    "indices": [117, 140]
+  }]
+}, source = "Twitter for iPhone", source_url = "http://twitter.com/download/iphone", in_reply_to_status_id = "None", in_reply_to_status_id_str = "None", in_reply_to_user_id = "None", in_reply_to_user_id_str = "None", in_reply_to_screen_name = "None", geo = "None", coordinates = "None", place = "None", contributors = "None", is_quote_status = "False", retweet_count = 48, favorite_count = 141, favorited = "False", retweeted = "False", possibly_sensitive = "False", lang = "fr"), contributors_enabled = "False", is_translator = "False", is_translation_enabled = "False", profile_background_color = "FFFFFF", profile_background_image_url = "http://abs.twimg.com/images/themes/theme15/bg.png", profile_background_image_url_https = "https://abs.twimg.com/images/themes/theme15/bg.png", profile_background_tile = "False", profile_image_url = "http://pbs.twimg.com/profile_images/1186216012586389504/VQQBnTI-_normal.jpg", profile_image_url_https = "https://pbs.twimg.com/profile_images/1186216012586389504/VQQBnTI-_normal.jpg", profile_banner_url = "https://pbs.twimg.com/profile_banners/217749896/1568734789", profile_link_color = "0E1C46", profile_sidebar_border_color = "FFFFFF", profile_sidebar_fill_color = "A8C7F7", profile_text_color = "333333", profile_use_background_image = "False", has_extended_profile = "False", default_profile = "False", default_profile_image = "False", following = "False", follow_request_sent = "False", notifications = "False", translator_type = ""None"")
