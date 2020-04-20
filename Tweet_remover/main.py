@@ -20,7 +20,6 @@ def load_config():
     data = {"consumer_key": "", "consumer_secret":"", "access_token":"","access_token_secret":""}
     try:
         open("config.json", "r")
-        print("config file created")
 
     except:
         print("config file created")

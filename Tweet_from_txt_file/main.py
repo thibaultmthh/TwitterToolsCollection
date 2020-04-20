@@ -32,7 +32,6 @@ def load_config():
     data = {"consumer_key": "", "consumer_secret":"", "access_token":"","access_token_secret":"", "time_between_tweets_sec": 60*60*12}
     try:
         open("config.json", "r")
-        print("config file created")
 
     except:
         print("config file created")
