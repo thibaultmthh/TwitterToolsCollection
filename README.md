@@ -13,13 +13,12 @@ pip3 install -r requirements.txt
 ### Random exemples
 A collection of exemple to do all type of things
 
-### type exemple
-All type of exemple to do all type of things
-
 ### token generator : 
 Generate token for you tweeter account from you app consumer key / secret
 
 ### tweet remover 
 Remove tweet from you twitter account 
 
+### tweet from file
+A bot that tweet from a list of tweets in a txt file until the bot have tweet eveythings
 
