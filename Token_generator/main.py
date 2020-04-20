@@ -1,6 +1,10 @@
 from flask import Flask, session, redirect, request
 import json
 import tweepy
+import os
+
+fullpath = os.path.abspath(__file__)
+os.chdir(os.path.dirname(fullpath))
 
 app = Flask(__name__)
 data = {"request_token": "", "token": "", "api": ""}
