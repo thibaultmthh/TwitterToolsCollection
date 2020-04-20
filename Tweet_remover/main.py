@@ -3,7 +3,10 @@ import json
 import time
 import random
 from tqdm import tqdm
+import os
 
+fullpath = os.path.abspath(__file__)
+os.chdir(os.path.dirname(fullpath))
 
 def connexion(tokens):
     consumer_key = tokens["consumer_key"]

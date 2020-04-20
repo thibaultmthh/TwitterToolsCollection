@@ -1,7 +1,10 @@
 import tweepy
 import json
 import time
+import os
 
+fullpath = os.path.abspath(__file__)
+os.chdir(os.path.dirname(fullpath))
 
 liste_tweet = []
 with open("tweet_list.txt") as f:
