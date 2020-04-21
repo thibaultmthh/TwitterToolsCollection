@@ -30,7 +30,7 @@ def load_config():
 def read_csv(path):
     with open(str(path)) as file:
         dialect = csv.Sniffer().sniff(file.read(1024))
-        csv_file = csv.reader(file, dialect, quotechar='"')
+        csv_file = csv.reader(file, dialect, quotechar='"',delimiter=";")
         csv_file_list = []
         file.seek(0)
         for row in file:
