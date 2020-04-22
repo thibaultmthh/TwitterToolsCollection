@@ -37,13 +37,12 @@ callback = 'http://{}:{}/{}'.format(host,port, path_callback)
 
 @app.route('/')
 def auth():
-    try:
-        auth = tweepy.OAuthHandler(consumer_key, consumer_secret, callback)
-        url = auth.get_authorization_url()
-        data['request_token'] = auth.request_token
-        return redirect(url)
-    except Exception as e:
-        return "Erreur, maybe bad consumer_key or consumer_secret"
+
+    auth = tweepy.OAuthHandler(consumer_key, consumer_secret, callback)
+    url = auth.get_authorization_url()
+    data['request_token'] = auth.request_token
+    return redirect(url)
+
 
 
 @app.route('/{}'.format(path_callback))
@@ -73,7 +72,7 @@ if len(consumer_key) > 5 and len(consumer_secret) > 5:
     url = auth.get_authorization_url()
 
 
-    app.run(host=host, port = port)
+    app.run(host=host, port = port, debug=True)
 
 else:
     print("Fill the config file (config.json) before start the server")
