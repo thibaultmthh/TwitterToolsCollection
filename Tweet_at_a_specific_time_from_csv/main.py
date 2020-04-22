@@ -5,6 +5,7 @@ import json
 import time
 import csv
 
+
 already_post=[]
 
 def connexion(tokens):
@@ -28,9 +29,9 @@ def load_config():
             json.dump(data, f)
             return data
 def read_csv(path):
-    with open(str(path)) as file:
+    with open(str(path),encoding='utf8') as file:
         dialect = csv.Sniffer().sniff(file.read(1024))
-        csv_file = csv.reader(file, dialect, quotechar='"',delimiter=";")
+        csv_file = csv.reader(file, dialect, quotechar='"')
         csv_file_list = []
         file.seek(0)
         for row in file:
@@ -61,9 +62,11 @@ def post_shedule_post():
     for x in a:
         if x[0] == date and x[1] == hours and not x in already_post:
             already_post.append(x)
-            a= x[2].encode("utf-8")
-            print("[{}:{}] tweet sended".format(hour,minute))
-            return api.update_status(a)
+            try:
+                api.update_status(x[2])
+                print("[{}:{}] tweet sended: {}".format(hour,minute,x[2]))
+            except :
+                print("[{}:{}] Can't send : because it is the same as the previous one ".format(hour,minute,x[2]))
 
 
 config = load_config()
