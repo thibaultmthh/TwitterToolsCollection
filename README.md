@@ -4,6 +4,11 @@ A list of twitter tools using tweepy
 before start install requirements via :
 pip3 install -r requirements.txt
 
+
+A link to help you to create twitter dev account and get app tokens : 
+https://docs.google.com/presentation/d/1NSt8wq7wZd9MzkbORvNHssttqO-flNx2VD57JalvOMc/edit?usp=sharing
+
+
 ## General use :  
 1 choose you tool, go into it folder  
 2 fill the config file for the tool you want to use ( mainly named config.json )  
